@@ -44,3 +44,6 @@ The "Smart Servo and LED Controller with Light Detection" project is an innovati
 
 1. Observe the LED turning on in dark conditions and off in bright conditions.
 2. Send serial commands (`servo: on` and `servo: off`) to control the servo motor.
+
+![Screenshot]([url_to_your_image](https://github.com/er4files/Smart-Servo-and-LED-Controller-with-Light-Detection/blob/main/Screenshot_24.png))
+
